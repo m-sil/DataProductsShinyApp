@@ -1,0 +1,10 @@
+name: usname
+title:
+username:
+account: m-sil
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 234660
+bundleId: 1071502
+url: https://m-sil.shinyapps.io/usname/
+when: 1510510718.37705
